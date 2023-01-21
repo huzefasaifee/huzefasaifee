@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huzefasaifee
 - 👀 I’m interested in coding, singing, reading
-- 🌱 I’m currently learning Azure, ReactJS
+- 🌱 I’m currently working in .net, .net 6, aws, devops
 - 💞️ I’m looking to collaborate on building apps that satisfy clients
 - 📫 How to reach me ...https://www.linkedin.com/in/huzefans/
 
